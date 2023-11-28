@@ -11,7 +11,7 @@ Four experiments were conducted to compare GRC with LRC, CRC, and SRC on four be
 **Experiment 4:** Compare GRC with LRC, CRC, and SRC when different numbers of principal components (10:10:300) are extracted.  
 
 # Usage
-Run `main.m`.
+Run `main.m` to play this demo. 
 
 # Contact information
 Jing Wang  
